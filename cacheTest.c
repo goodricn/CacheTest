@@ -1,4 +1,4 @@
-nclude <stdio.h>      /* printf */
+include <stdio.h>      /* printf */
 #include <time.h>       /* clock_t, clock, CLOCKS_PER_SEC */
 #include <math.h>       /* sqrt */
 
